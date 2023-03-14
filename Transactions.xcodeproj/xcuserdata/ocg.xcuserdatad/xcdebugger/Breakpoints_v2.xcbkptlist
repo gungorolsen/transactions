@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "19F74BDE-F918-49C6-899F-15F9FB0A8C05"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8461D2DE-2A62-4AED-9667-E1910BFD2182"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Transactions/PresentationLayer/ViewModels/AccountViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "AccountDetailsViewItem"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4D2A7FE2-3852-4A06-973B-795A7940AA69"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Transactions/PresentationLayer/ViewModels/TransactionListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "refreshAccountDetails()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4D2A7FE2-3852-4A06-973B-795A7940AA69 - 7e529ae022336897"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Transactions.AccountDetailsViewModel.refreshAccountDetails() async -&gt; ()"
+                  moduleName = "Transactions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ocg/Documents/GitHub/Transactions/Transactions/PresentationLayer/ViewModels/TransactionListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "98">
+               </Location>
+               <Location
+                  uuid = "4D2A7FE2-3852-4A06-973B-795A7940AA69 - 398b63f2d0f3696"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for Transactions.AccountDetailsViewModel.refreshAccountDetails() async -&gt; ()"
+                  moduleName = "Transactions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ocg/Documents/GitHub/Transactions/Transactions/PresentationLayer/ViewModels/TransactionListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "4D2A7FE2-3852-4A06-973B-795A7940AA69 - 91e6415a18189499"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for Transactions.AccountDetailsViewModel.refreshAccountDetails() async -&gt; ()"
+                  moduleName = "Transactions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ocg/Documents/GitHub/Transactions/Transactions/PresentationLayer/ViewModels/TransactionListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "43">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D6E37464-20E3-4D93-B7B6-9D6BA5D2D3FF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Transactions/DataLayer/Mappers/TransactionsMapper.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "AccountDetailsMapper"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "D6E37464-20E3-4D93-B7B6-9D6BA5D2D3FF - 9d50581137bbd2ed"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Transactions.TransactionMapper.mapAtm(_: Swift.Optional&lt;Swift.Array&lt;Transactions.TransactionsResponse.ATM&gt;&gt;, atmId: Swift.Optional&lt;Swift.String&gt;) -&gt; Swift.Optional&lt;Transactions.AccountDetails.ATM&gt;"
+                  moduleName = "Transactions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ocg/Documents/GitHub/Transactions/Transactions/DataLayer/Mappers/TransactionsMapper.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "126">
+               </Location>
+               <Location
+                  uuid = "D6E37464-20E3-4D93-B7B6-9D6BA5D2D3FF - 6984808c279bccc7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Transactions.TransactionsResponse.ATM) -&gt; Swift.Bool in Transactions.TransactionMapper.mapAtm(_: Swift.Optional&lt;Swift.Array&lt;Transactions.TransactionsResponse.ATM&gt;&gt;, atmId: Swift.Optional&lt;Swift.String&gt;) -&gt; Swift.Optional&lt;Transactions.AccountDetails.ATM&gt;"
+                  moduleName = "Transactions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ocg/Documents/GitHub/Transactions/Transactions/DataLayer/Mappers/TransactionsMapper.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "87">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
